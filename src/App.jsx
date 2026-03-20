@@ -8,7 +8,7 @@ const App = () => {
 
   return (
     <div style={styles.container}>
-      <h1 style={styles.title}>So'm</h1>
+      <h1 style={styles.title}>SO'M</h1>
       <input
         style={styles.input}
         type="number"
@@ -20,7 +20,7 @@ const App = () => {
         }}
       />
 
-      <h1 style={styles.title}>Usd</h1>
+      <h1 style={styles.title}>USD</h1>
       <input
         style={styles.input}
         type="number"
